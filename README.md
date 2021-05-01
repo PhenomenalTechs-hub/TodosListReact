@@ -1,8 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# About the Project
+This Project is a todo list website with hot reloading made with react.
 
 In the project directory, you can run:
 
