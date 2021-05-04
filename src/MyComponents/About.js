@@ -2,9 +2,10 @@ import React from 'react'
 
 export const About = () => {
     return (
-        <div>
-            This is an About Component
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur perspiciatis ipsam, nulla ut consectetur sequi corrupti placeat eligendi odit distinctio dolores, architecto perferendis minus delectus incidunt dolorum consequuntur atque? Officiis aliquam aspernatur quidem pariatur.</p>
+        <div className="text-center">
+            <h4>This is an About Page / Component</h4>
+            <p>Well Guys my name is Ali Ashraf i literally took 4 hours to make this project/website.<br/> This was an overwhelming project this was the one in which i had got success.</p>
+            <p>Hope you like this project <font className="alert-primary">Alina Ashraf</font> because you might be the first visitor of this website</p>
         </div>
     )
 }
