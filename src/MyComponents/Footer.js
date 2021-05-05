@@ -12,5 +12,6 @@ export const Footer = () => {
             </font>
             </p>
         </footer>
+        
     )
 }

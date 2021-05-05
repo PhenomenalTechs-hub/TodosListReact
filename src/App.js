@@ -9,6 +9,7 @@ import {BrowserRouter as Router,
         Route, 
         Link} from 'react-router-dom'
 import { About } from './MyComponents/About';
+import FirstUser from './MyComponents/FirstUser';
 
 function App() {
   let initTodo;
@@ -63,6 +64,9 @@ function App() {
       </Route>
       <Route exact path="/about">
         <About/>
+      </Route>
+      <Route exact path="/fuser">
+        <FirstUser />
       </Route>
     </Switch>
     <Footer/>
